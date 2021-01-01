@@ -9,4 +9,4 @@
       name:
         - screen
   - name: install stoneblock2 (1/2)
-    command: https://api.modpacks.ch/public/modpack/4/153/server/linux
+    command: wget https://api.modpacks.ch/public/modpack/4/153/server/linux
